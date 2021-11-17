@@ -10,11 +10,8 @@ most of them connected with [Cevi Schweiz](https://github.com/cevi).
 
 
 <p align="center">
-   <br>
-   <br>
+
   <img src="https://github-readme-stats.vercel.app/api?username=wp99cp&show_icons=true&theme=gruvbox" alt="Cyrill's Github State" /> 
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wp99cp&show_icons=true&theme=gruvbox&layout=compact" alt="Cyrill's Github State" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wp99cp&show_icons=true&theme=gruvbox" alt="Cyrill's Github State" />
 
 </p>
