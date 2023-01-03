@@ -1,7 +1,5 @@
 # Cyrill's Github Page
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wp99cp.wp99cp)
-
 Welcome!
 
 My name is Cyrill Püntener. I am an undergraduate studying computer science at ETH Zurich, 
